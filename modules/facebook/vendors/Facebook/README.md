@@ -1,0 +1,1 @@
+Put the newest Facebook PHP SDK library here as file **facebook.php**. Can be obtained from [facebook's php-sdk](http://github.com/facebook/php-sdk/).
